@@ -1,0 +1,7 @@
+{
+  "name": "binary-cli-args-tester",
+  "version": "1.0.0",
+  "bin": "app.js",
+  "private": true,
+  "license": "UNLICENSED"
+}
